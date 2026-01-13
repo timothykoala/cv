@@ -15,8 +15,10 @@ status:
 role: "Scientist - Biotech Editor"
 bio: "Timothy En Haw Chan is a scientist working on understanding epigenetics regulation in cancer and cell signalling, focuses on the interplay of external stimulus to cellular epigenetic regulation. Expertise in information curation, data analysis and synthesise idea. Passionate to summarize discoveries, biotech industry development and communicating science in biomedical field. He lived in Malaysia, Taiwan, Germany and traveled to more than 50 countries. Other than research, he is an amateur writer and science outreach educator."
 affiliations:
-  - name: "Meta AI"
-    url: "https://ai.meta.com/"
+  - name: "Max Planck Insitute of Immunobiology and Epigenetics"
+    url: "https://www.ie-freiburg.mpg.de/person/95279/2342"
+  - name: "German Cancer Research Center DKFZ"
+    url: "https://dktk.dkfz.de/en/research/dktk-researchers/timmers-group/"
 links:
   - icon: "at-symbol"
     url: "mailto:timothykoala@gmail.com"
@@ -34,11 +36,14 @@ links:
   - icon: "brands/bluesky"
     url: "https://bsky.app/profile/timothykoala.bsky.social"
     label: "Bluesky"
+  - icon: "hero/globe"
+    url: "https://dreamome.com"
+    label: "Website"
 interests:
-  - "Large Language Models"
-  - "Computer Vision"
-  - "Reinforcement Learning"
-  - "AI Ethics"
+  - "Epigenetics"
+  - "Cancer Biology"
+  - "Signaling Transduction"
+  - "Synthetic Biology"
 education:
   - degree: "PhD Computer Science"
     institution: "Stanford University"
@@ -53,10 +58,15 @@ education:
     institution: "Carnegie Mellon University"
     start: "2013-09-01"
     end: "2015-05-31"
-  - degree: "BS Computer Science"
-    institution: "MIT"
-    start: "2009-09-01"
-    end: "2013-05-31"
+  - degree: "BSc Biomedical Sciences"
+    institution: "Chang Gung University"
+    start: "2012-09-01"
+    end: "2016-06-28"
+    summary: "· Bachelor of Science (BS), College of Medicine, Department of Biomedical Sciences
+
+      · Worked on gene expression profiling and R in genomics core lab, Molecular Medicine Research Center, supervised by Hua-Chien Chen PhD
+
+      · First Place Winner, Annual Research Poster Contest and Undergraduate Academic Excellence Award (Ranked top 5% in class 6 out of 8 semesters)"
 experience:
   - role: "Senior AI Research Scientist"
     org: "Meta AI"
