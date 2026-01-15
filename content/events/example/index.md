@@ -16,7 +16,7 @@ tags:
   - Epigenetics
   - Chromatin
 featured: true
-image: {}
+image: ""
 links: {}
 
 ---
