@@ -1,15 +1,13 @@
 ---
-title: PyTorch
-date: 2023-10-26
+title: Talks at IOH Innovation Open House
+date: 2016-10-26
 links:
-  - type: site
-    url: https://github.com/pytorch/pytorch
+  - "type: site"
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - IOH
+summary: Online talk about undergraduarte experience of Biomedical Sciences major in Chang Gung University
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Online talk about undergraduarte experience of Biomedical Sciences major in Chang Gung University
 
 <!--more-->
