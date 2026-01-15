@@ -67,22 +67,22 @@ education:
 experience:
   - role: "IMPRS PhD Researcher"
     org: "German Cancer Consortium DKTK, German Cancer Research Center DKFZ, Germany"
-    start: "2019-01"
-    end: "2025-12"
+    start: "2019-01-01"
+    end: "2025-12-30"
     summary: "
     <br>· Working on functional analysis of epigenetic factor in control of cancer cell signaling by multi-omics integration. </br>
     <br>· Experienced with CRISPR editing, epigenetics, transcriptional experiments and data analysis, including RNA-Seq, CUT&RUN, CUT&Tag, ChIP-seq, ATAC-seq, Hi-C. </br>
     <br>· Implementing and optimizing CRISPR editing and RNA-seq data analysis workflow for the lab.</br>"
   - role: "Contributing Editor and Science writer"
     org: "The Investigator Taiwan, Taiwan"
-    start: "2015-09"
-    end: "2023-02"
+    start: "2015-09-01"
+    end: "2023-02-01"
     summary: "<br>· Contributing Editor and writer about recent biomedical research. Portfolio: investigator.tw/author/id003/ </br>
       <br>· As former editor-in-chief (Year 2017), leading the editorial team, performed strategic planning and project management on editorial workflow.</br>"
   - role: "Co-founder"
     org: "Chang Gung University International Genetically Machine iGEM Team, CGU_Taiwan"
-    start: "2014-12"
-    end: "2016-12"
+    start: "2014-12-01"
+    end: "2016-12-01"
     summary: "<br>· Co-founder who organized the first iGEM team in Chang Gung University. Built an interdisciplinary team to take part the worldwide synthetic biology competition. </br>
       <br>· Wrote proposal, secured team grant funding, did team recruitment and experiments design for the team. The results of RNA toehold switch and engineered G protein-coupled receptor on yeast as biosensor were presented at 2015 iGEM Giant Jamboree in Boston. </br>
       <br>· As team advisor in year 2016.</br>"
@@ -110,24 +110,24 @@ languages:
 awards:
   - title: "FASEB TGF-ß Superfamily Conference Travel Award"
     awarder: "FASEB TGF-ß Superfamily Conference "
-    date: "2022-07"
+    date: "2022-07-01"
     summary: ""
     icon: ""
   - title: "Taiwan Overseas Community Affair Council Graduate Scholarship Award"
     awarder: "Overseas Community Affair Council, Taiwan"
-    date: "2017-01"
+    date: "2017-01-01"
     summary: "Scholarship worth NTD120K (USD4,500) granted for excellent academic performance among top 2% overseas Chinese students in Taiwan."
   - title: "First Place Winner, Annual Research Poster Contest"
     awarder: "Dept. of Biomedical Sciences, Chang Gung University"
-    date: "2016-05"
+    date: "2016-05-01"
     summary: "Granted for excellent undergraduate thesis research, poster and oral presentation: “Integrative profiling and analysis of Epstein-Barr virus-encoded microRNAs” in the academic year 2016."
   - title: "Chang Gung Youth Award"
     awarder: "College of Medicine, Chang Gung University"
-    date: "2016-04"
+    date: "2016-04-01"
     summary: "Granted by College of Medicine, Chang Gung University as one of the most outstanding students in the college in 2015/2016 academic year."
   - title: "Gold Award in Popular Science Writing"
     awarder: "Taiwan Genomics Medicine and Biomarker Society"
-    date: "2014-11"
+    date: "2014-11-01"
     summary: "Granted for pop-science essay writing about genomics medicine."
 weight: null
 ids:
