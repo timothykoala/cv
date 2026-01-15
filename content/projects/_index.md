@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Outreach Projects
+      text: I enjoy scientific communication and experience sharing. Here are a selection of outreach projects that I have worked on over the years.
       filters:
         folders:
           - projects
