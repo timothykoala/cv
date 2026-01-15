@@ -18,9 +18,10 @@ tags:
 featured: true
 image: []
 links:
-  - "icon: brands/github"
-  - "icon: brands/youtube"
-  - "icon: book-open"
+- icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://x.com/timothykoala
 slides: []
 projects: []
 ---
