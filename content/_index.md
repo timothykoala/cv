@@ -42,11 +42,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Elucidating interplays between external stimulus to epigenetics modulation.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Cells transmit extracellular information from the membrane to the nucleus which involves using cell-surface receptors and signaling pathways. By utilizing growth factor signaling pathways, gene expression can be controlled via the extracellular environment, but the involvement of chromatin regulators is largely unknown.
 
-        Please reach out to collaborate 😃
+        My work focus on uncovering the contribution of mixed lineage leukemias (MLLs) histone methyltransferase complex in cell signaling regulation via stimulus induce methlytransferase recruitment. While cancers have a high frequency of somatic alterations on chromatin regulators and growth factor signaling pathways, affecting the regulate interactions of epigenetics regulation in cell signaling events. By understanding the mechanism of stimulus induce methlytransferase recruitment, which may lead to potential new therapeutic targets.
+
+        More recently, I am exploring the effects of histone methyltransferase on the tumor immune microenvironment.
     design:
       columns: '1'
   - block: collection
