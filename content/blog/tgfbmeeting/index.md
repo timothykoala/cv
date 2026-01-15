@@ -10,7 +10,8 @@ authors:
 tags:
   - Conference
   - TGF-β
-content_meta: []
+content_meta: 
+  trending: false
 ---
 
 It's a fruitful summer at Malahide, Ireland. While listened to many interesting talks from TGF-β field, a flash talk and poster titled as the involvement of MLL4 histone methyltransferase and AP-1 in TGF-β signaling transcriptional activation was presented.
