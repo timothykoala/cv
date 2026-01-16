@@ -9,21 +9,7 @@ draft: false
 image:
   caption: 'Credit: BioMed X'
 
-cover:
-  image: "https://bmedx.com/news-events/press-releases/biomed-x-and-abbvie-collaboration-us-009540/"
-  position:
-    x: 50
-    y: 40
-  overlay:
-    enabled: true
-    type: "gradient"
-    opacity: 0.4
-    gradient: "bottom"
-  fade:
-    enabled: true
-    height: "80px"
-  icon:
-    name: "✨"
+cover: []
 
 # Authors are matched to profiles in content/authors/
 authors:
