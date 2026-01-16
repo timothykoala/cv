@@ -1,6 +1,6 @@
 ---
 title: Back to iGEM competition as a judge
-summary: "One-sentence takeaway for busy readers (also used in cards and SEO)."
+summary: Judging the world biggest synthetic biology competition in Paris
 date: 2022-10-23
 draft: false
 
