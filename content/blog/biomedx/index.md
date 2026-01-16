@@ -2,7 +2,7 @@
 title: "BioMed X Boot Camp: Complex Human Ex Vivo Models of Tissue Inflammation"
 summary: A week of brainstroming and viewpoint of pharmaceutical mindset on research and developement  
 date: 2023-05-19
-draft: true
+draft: false
 
 # Featured image for cards/social
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
