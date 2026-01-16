@@ -28,10 +28,10 @@ main:
     identifier: TjWRFpsM
     url: /projects/
     weight: 60
-  - name: Courses
-    identifier: laCyN1yW
-    url: courses/
-    weight: 70
+#  - name: Courses
+#    identifier: laCyN1yW
+#    url: courses/
+#    weight: 70
   - name: Main Page
     identifier: main
     url: https://dreamome.com
